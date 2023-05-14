@@ -5,7 +5,7 @@ Maintainer: Joshua Wheeler <joshuawhe@proton.me>
 Depends:  com.anemonetheming.anemone, com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: ./debs/DarkCarbon.deb
-Size: 422
+Size: 432128
 MD5sum: 6c93452fea257e97c4514e88e66ad60c
 Description: Changes stock iOS app icons to be darker
 Name: Dark Carbon
