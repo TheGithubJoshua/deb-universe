@@ -6,10 +6,10 @@ Depends:  com.anemonetheming.anemone, com.spark.snowboard
 Architecture: iphoneos-arm
 Filename: ./debs/DarkCarbon.deb
 Size: 422
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
+MD5sum: 6c93452fea257e97c4514e88e66ad60c
+Description: Changes stock iOS app icons to be darker
+Name: Dark Carbon
+Author: Joshua Wheeler <joshuawhe@proton.me>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
 
 Package: com.supermamon.oldpackage
