@@ -1,11 +1,11 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Package: com.joshua.darkcarbon
+Version: 1.0.0
+Section: Themes
+Maintainer: Joshua Wheeler <joshuawhe@proton.me>
+Depends:  com.anemonetheming.anemone, com.spark.snowboard
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
+Filename: ./debs/DarkCarbon.deb
+Size: 422
 MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
 Description: This is a sample new package. Firmware should be greater than 7.0
 Name: New Package
